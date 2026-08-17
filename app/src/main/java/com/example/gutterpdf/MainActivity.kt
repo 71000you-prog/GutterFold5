@@ -20,6 +20,8 @@ import android.print.PageRange
 import android.print.PrintAttributes
 import android.print.PrintDocumentAdapter
 import android.print.PrintDocumentInfo
+import android.print.PrintDocumentAdapter.LayoutResultCallback
+import android.print.PrintDocumentAdapter.WriteResultCallback
 import android.print.PrintManager
 import android.text.InputType
 import android.util.TypedValue
